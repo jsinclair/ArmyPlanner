@@ -1,2 +1,2 @@
 # ArmyPlanner
-Army planner app, build in SwiftUI
+Army planner app, built in SwiftUI
